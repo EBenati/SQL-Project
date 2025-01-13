@@ -45,7 +45,7 @@ Clone this repository and execute the SQL scripts in MySQL Workbench to recreate
 The data cleaning process is implemented in SQL and includes:
 - Removes duplicates, standardizes data, and handles missing values.
 
-You can find all the scripts in the [sql_scripts](./sql_scripts/) folder.
+You can find all the scripts in the [Data_Cleaning_Project.sql](SQL-Project/Data_Cleaning_Project.sql) folder.
 
 
 ## Contact

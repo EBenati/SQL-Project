@@ -41,5 +41,12 @@ The cleaned dataset is ready for analysis and can help answer questions such as:
 ## Usage
 Clone this repository and execute the SQL scripts in MySQL Workbench to recreate the cleaned dataset.
 
+## SQL Scripts
+The data cleaning process is implemented in SQL and includes:
+- Removes duplicates, standardizes data, and handles missing values.
+
+You can find all the scripts in the [sql_scripts](./sql_scripts/) folder.
+
+
 ## Contact
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/everton-benati-536b491a8/) or email: e.benati.dev@gmail.com
